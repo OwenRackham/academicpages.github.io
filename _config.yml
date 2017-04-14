@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data-driven Network Biology"
+title                    : "A/Prof Owen Rackham"
 title_separator          : "-"
-name                     : &name "Dr Owen Rackham"
-description              : &description "Assistant professor at Duke-NUS medical school in Singapore. Using data, computing and coffee to generate new biological insights"
+name                     : &name "Owen Rackham"
+description              : &description "Assistant professor at Duke-NUS medical school in Singapore."
 url                      : https://owenrackham.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "owenrackham/academicpages.github.io"
@@ -72,14 +72,14 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 
+    tracking_id          : "UA-25294837-1"
 
 
 # Site Author
 author:
   name             : "Owen Rackham"
   avatar           : "profile.png"
-  bio              : "Assistant Prof"
+  bio              : "Combining data, computers and coffee to generate new biological insights"
   location         : "Singapore"
   employer         : "Duke-NUS Medical School"
   googlescholar    : "https://scholar.google.com.sg/citations?user=Mu1bnNoAAAAJ&hl=en"
@@ -97,7 +97,7 @@ author:
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
