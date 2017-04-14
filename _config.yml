@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Data-driven Network Biology"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dr Owen Rackham"
+description              : &description "Assistant professor at Duke-NUS medical school in Singapore. Using data, computing and coffee to generate new biological insights"
+url                      : https://owenrackham.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "owenrackham/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter 
+  username               : &OwenRackham 
 facebook:
   username               : 
   app_id                 :
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Owen Rackham"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  bio              : "Assistant Prof"
+  location         : "Singapore"
+  employer         : "Duke-NUS Medical School"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=Mu1bnNoAAAAJ&hl=en"
+  email            : "owen.rackham[at]duke-nus.edu.sg"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "academicpages"
+  github           : "OwenRackham"
   google_plus      :
   keybase          :
   instagram        : 
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "OwenRackham"
   vine             :
   weibo            :
   xing             :
