@@ -67,8 +67,8 @@ def html_escape(text):
 import os
 for row, item in publications.iterrows():
     
-    md_filename = yaml_timestamp + "-" + item.cluster_id + ".md"
-    html_filename = yaml_timestamp + "-" + item.cluster_id
+    md_filename = yaml_timestamp + "-" + "c" + item.cluster_id + ".md"
+    html_filename = yaml_timestamp + "-" + "c" + item.cluster_id
     year = item.year
     
     ## YAML variables
