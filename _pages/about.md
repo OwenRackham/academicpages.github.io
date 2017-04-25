@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Owen Rackham: Data Driven Biology @ Duke-NUS"
+title: "Data Driven Biology @ Duke-NUS"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
