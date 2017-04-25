@@ -24,7 +24,10 @@
 # In[2]:
 
 import pandas as pd
+import yaml
+import datetime
 
+yaml_timestamp = str(datetime.datetime.now().date())
 
 # ## Import TSV
 # 
@@ -64,8 +67,8 @@ def html_escape(text):
 import os
 for row, item in publications.iterrows():
     
-    md_filename = str(item.year) + "-" + item.cluster_id + ".md"
-    html_filename = str(item.year) + "-" + item.cluster_id
+    md_filename = yaml_timestamp + "-" + item.cluster_id + ".md"
+    html_filename = yaml_timestamp + "-" + item.cluster_id
     year = item.year
     
     ## YAML variables
