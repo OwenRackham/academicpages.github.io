@@ -82,7 +82,7 @@ for row, item in publications.iterrows():
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
     
-    md += "\ndate: " + str(item.year) 
+    md += "\npublication_date: " + str(item.year) 
     
     md += "\ncitations: '" + str(item.num_citations) + "'"
     
